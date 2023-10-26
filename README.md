@@ -1,6 +1,6 @@
 # PyTorch-FedAvg
 Simple FedAvg with PyTorch
----
+
 FedAVG/
 │
 ├── data/                 # 數據集存放位置
@@ -27,4 +27,4 @@ FedAVG/
 │   ├── move_png.py　　#將kaggle照片分類成資料夾
 │
 └── main.py            # 主執行檔案，組織整個FedAVG流程
----
+
